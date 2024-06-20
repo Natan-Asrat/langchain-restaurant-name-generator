@@ -1,6 +1,12 @@
 # Restaurant Name Generator
 This project uses LangChain to generate restaurant names and menu items based on selected cuisines. It utilizes a language model and sequential chaining to provide restaurant-related outputs.
 
+## Contact
+ - LinkedIn: [Natan Asrat](https://linkedin.com/in/natan-asrat)
+ - Gmail: nathanyilmaasrat@gmail.com
+ - Telegram: [Natan Asrat](https://t.me/fail_your_way_to_success)
+ - Youtube: [Natville](https://www.youtube.com/@natvilletutor)
+
 ## Setup
 ### Prerequisistes
 - Python 3.x installed on your system
